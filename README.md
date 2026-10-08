@@ -245,4 +245,4 @@ This repository serves as the official landing page for Reason. The software is 
 **Get the most recent version of Reason today!**
 
 ---
-**Last updated:** 2026-10-07 21:49:09 UTC
+**Last updated:** 2026-10-08 01:37:36 UTC
